@@ -26,9 +26,7 @@
 * Offer a binary option after each narration to determine what the next step will be
 
 #### Example:
-![Screen Shot](IMG_5949.PNG)
-![Screen Shot](IMG_5950.PNG)
-![Screen Shot](IMG_5951.PNG)
+![Screen Shot](IMG_5952.PNG)
 
 #### :white_check_mark: To Do
 * In expo desktop app, create new project
